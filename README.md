@@ -1,6 +1,6 @@
 # Site-Out-pet
 
 
-O objetivo dessa aula seria reecriar o site do outpet sem utilizar flex, grid e outras funcionalidades em um prazo de 2 semanas.
+The objective of this class would be to re-create the outlet website without using flex, grid and other features within 2 weeks.
 
-Obviamente não está responsivo, sendo apenas disponivel na resolução 1920x1080.
+It is obviously not responsive, being only available in 1920x1080 resolution.
